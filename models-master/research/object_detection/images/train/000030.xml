@@ -1,0 +1,26 @@
+<annotation>
+	<folder>scrapPhotos</folder>
+	<filename>000030.jpg</filename>
+	<path>/Users/VictorLi/Desktop/models-master/research/object_detection/images/train/000030.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke_zero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>95</ymin>
+			<xmax>281</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>
